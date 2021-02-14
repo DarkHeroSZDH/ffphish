@@ -38,7 +38,6 @@ echo '
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ' | lolcat
 echo '|Develop BY Safe Zone Admin Crew |' | lolcat
 echo '|Safe Zone Official Team         | ' | lolcat
-echo '|country : Sri Lanka             |' | lolcat
 echo '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ' | lolcat
 echo ''
 echo '<×<><><><><><><><><><><><><><><><><><>=×>' | lolcat
